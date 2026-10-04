@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Dev 👋
 
-<!--
-**devangnagaich-bit/devangnagaich-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Marketing & AI Specialist and Co-Founder at DOSO NGO** (Lucknow, India), a children's education, health and care organisation. I'm a CBSE Class 12 student who builds finished, working digital products: apps, websites and design systems.
 
-Here are some ideas to get you started:
+## What I'm working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🛒 **Ansal Quick**: a hyperlocal quick-commerce platform for the Ansal API locality in Lucknow, with Buyer, Vendor and Delivery Partner views, live order tracking, inventory, earnings and payouts, and reviews.
+- 👗 **Drape Studio**: a saree virtual try-on web app with manual 2D/3D modes and an AI auto-fit backend.
+- 💙 **DOSO NGO digital assets**: a 15-page website with an AI chatbot, plus a Canva and Figma design system, posters, brochures and certificates.
+
+## Skills
+
+**Design:** Canva, Figma, FigJam, design systems  
+**Development:** React, multi-page websites, role-based apps, Python  
+**AI:** Claude chatbot integration, system-prompt design, virtual try-on pipelines  
+**Marketing:** NGO branding, social media, campaign collateral
+
+## More
+
+📄 Resume and project write-ups: [portfolio](https://github.com/devangnagaich-bit/portfolio)
